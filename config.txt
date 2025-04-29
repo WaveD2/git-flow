@@ -10,6 +10,7 @@ fe cập nhật, chỉnh sửa code config
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 be cập nhât code p2
 
@@ -26,3 +27,7 @@ be cập nhât code p2
 >>>>>>> 0b608a3 (be cập nhật code p2)
 =======
 >>>>>>> f2ba46b (cập nhật code)
+=======
+
+be cập nhât code p2
+>>>>>>> 7230ff2 (be cập nhật code p2)
