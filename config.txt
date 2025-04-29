@@ -4,3 +4,5 @@ fe chỉnh sửa file config-phát triển tính năng 2
 fe chỉnh sửa lại file code
 fe cập nhật thêm
 fe cập nhật, chỉnh sửa code config
+
+be cập nhât code p2
