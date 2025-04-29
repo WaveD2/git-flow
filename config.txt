@@ -3,3 +3,5 @@ be cập nhật file
 be cập nhât code p2
 fe cập nhật thêm
 fe cập nhật, chỉnh sửa code config
+
+be cập nhât code p2
