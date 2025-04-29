@@ -1,6 +1,7 @@
 fe chỉnh sửa file config-phát triển tính năng 2
 
 đây là code config be
+<<<<<<< HEAD
 fe chỉnh sửa lại file code
 be cập nhật file
 be cập nhât code p2
@@ -10,3 +11,7 @@ fe cập nhật, chỉnh sửa code config
 be cập nhât code p2
 
 be cập nhật tính năng 2 13/52
+=======
+be cập nhật file
+be cập nhât code p2
+>>>>>>> a543119 (be cập nhật code p2)
