@@ -8,6 +8,7 @@ be cập nhât code p2
 fe cập nhật thêm
 fe cập nhật, chỉnh sửa code config
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 be cập nhât code p2
 
@@ -18,3 +19,7 @@ be cập nhât code p2
 >>>>>>> a543119 (be cập nhật code p2)
 =======
 >>>>>>> 6fbbd97 (fe cập nhật config code)
+=======
+be cập nhật file
+be cập nhât code p2
+>>>>>>> 0b608a3 (be cập nhật code p2)
