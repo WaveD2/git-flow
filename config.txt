@@ -1,3 +1,5 @@
+fe chỉnh sửa file config-phát triển tính năng 2
+
 đây là code config be
 be cập nhật file
 be cập nhât code p2
