@@ -1,5 +1,2 @@
 đây là code be cập nhật 
-<<<<<<< HEAD
 be cập nhật code p2
-=======
->>>>>>> a543119 (be cập nhật code p2)

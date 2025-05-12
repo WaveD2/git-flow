@@ -1,58 +1,9 @@
 fe chỉnh sửa file config-phát triển tính năng 2
-
 đây là code config be
-<<<<<<< HEAD
 fe chỉnh sửa lại file code
 be cập nhật file
-be cập nhât code p2
 fe cập nhật thêm
 fe cập nhật, chỉnh sửa code config
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 be cập nhât code p2
-
-<<<<<<< HEAD
 be cập nhật tính năng 2 13/52
-=======
-be cập nhật file
-be cập nhât code p2
->>>>>>> a543119 (be cập nhật code p2)
-=======
->>>>>>> 6fbbd97 (fe cập nhật config code)
-=======
-be cập nhật file
-be cập nhât code p2
->>>>>>> 0b608a3 (be cập nhật code p2)
-=======
->>>>>>> f2ba46b (cập nhật code)
-=======
-
-be cập nhât code p2
->>>>>>> 7230ff2 (be cập nhật code p2)
-=======
-be cập nhật tính năng 2 13/52
->>>>>>> c9af4ed (cập nhật tính năng 2)
-=======
-=======
->>>>>>> 78c49b1 (be cập nhật code p2)
-
-be cập nhât code p2
-
-be cập nhật tính năng 2 13/52
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b694947 (fe cập nhật config code)
-
-be cập nhật tính năng 2 13/52
->>>>>>> 34170f0 (fe cập nhật config code)
-=======
->>>>>>> 78c49b1 (be cập nhật code p2)
-=======
 be cập nhật tính năng 3 
->>>>>>> 179e19a (be cập nhật config tính năng 3)
