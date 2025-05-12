@@ -1,9 +1,14 @@
 fe chỉnh sửa file config-phát triển tính năng 2
+fe chỉnh sửa tính năng, tạo tính năng 4
+
 đây là code config be
 fe chỉnh sửa lại file code
 be cập nhật file
 fe cập nhật thêm
 fe cập nhật, chỉnh sửa code config
 be cập nhât code p2
+
 be cập nhật tính năng 2 13/52
-be cập nhật tính năng 3 
+
+
+fe cập nhật config cho fe
